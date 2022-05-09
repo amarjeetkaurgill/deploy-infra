@@ -1,1 +1,1 @@
-# deploy-infra
+# Deploy a GTD application to AWS Cloud
